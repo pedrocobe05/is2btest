@@ -11,15 +11,19 @@ package com.pedrocobe.is2test;
  */
 public class main {
 
-        public void Saludo(){
+        public static void Saludo(){
             System.out.println("Pa ke kieres saber eso jaja saludos");
         }
         
-        public void Despedida(){
-            
+        public static void Despedida(){
+            System.out.println("Chau :(");
         }
     
-        
+ public static void main (String [ ] args) {
+
+        Saludo();
+        Despedida();
+        }        
         
 }
 
