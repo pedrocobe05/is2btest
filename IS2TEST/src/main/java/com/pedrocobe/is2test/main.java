@@ -14,6 +14,12 @@ public class main {
         public void Saludo(){
             System.out.println("Pa ke kieres saber eso jaja saludos");
         }
+        
+        public void Despedida(){
+            
+        }
     
+        
+        
 }
 
