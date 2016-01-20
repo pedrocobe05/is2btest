@@ -10,5 +10,5 @@ package com.pedrocobe.is2test;
  * @author LAB203
  */
 public class Error {
-    dfhdfhgfhjgfhjgfjhgfjgfjgfgfj
+    //dfhdfhgfhjgfhjgfjhgfjgfjgfgfj
 }
